@@ -1,0 +1,56 @@
+.contact{
+    background: url("../img/rd.jpeg") no-repeat center top fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 25px;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    overflow: hidden;
+}
+
+.contact-area{
+    background: #111;
+    padding:60px 40px 60px 40px;
+    color:#fff;
+    opacity: 0.7;
+}
+.contact-wrapper h4{
+    color:#fff;
+    text-transform:uppercase;
+    font-size:26px;
+    font-family: "Raleway Webfont";
+    font-weight:600;
+    margin-bottom:50px;
+}
+.form-control {
+    border: 1px solid #c3bec2;
+    font-size: 16px;
+    height: 50px;
+    background: transparent;
+    border-radius: 0;
+    margin-bottom:30px;
+}
+.contact-area form a{
+    float:right;
+    margin-top:20px;
+}
+.contact-details{
+    background: #111;
+    padding:60px 40px;
+    color:#fff;
+    opacity: 0.8;
+    margin-bottom:20px;
+}
+.contact-details h4{
+    margin-bottom:25px;
+}
+.contact-details p{
+    margin: 0 0 10px;
+    color:#c3bec2;
+}
+
+.embed-responsive-100x400px {
+  padding-bottom: 400px;
+}
